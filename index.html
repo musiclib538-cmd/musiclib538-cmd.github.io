@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusicLib | Your Personal Music Library</title>
+    <style>
+        :root {
+            --dark-blue: #001f3f; /* Your DarkBlue */
+            --bluish-white: #f0f4f8; /* Your BluishWhite */
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            background-color: var(--bluish-white);
+            color: var(--dark-blue);
+            text-align: center;
+        }
+        header {
+            padding: 80px 20px;
+            background: white;
+        }
+        .logo { width: 120px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        h1 { font-size: 3rem; margin: 0; }
+        p.tagline { font-size: 1.2rem; opacity: 0.8; margin-top: 10px; }
+        .btn {
+            display: inline-block;
+            background-color: var(--dark-blue);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            margin-top: 30px;
+            transition: transform 0.2s;
+        }
+        .btn:hover { transform: scale(1.05); }
+        footer { padding: 40px; font-size: 0.9rem; }
+        footer a { color: var(--dark-blue); text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <!-- Replace logo.png with your actual logo in the images folder -->
+        <img src="images/logo.png" alt="MusicLib Logo" class="logo">
+        <h1>MusicLib</h1>
+        <p class="tagline">Search tracks, play music, and manage your library seamlessly.</p>
+        
+        <!-- Link to your Play Store page once it is live -->
+        <a href="#" class="btn">Download on Google Play</a>
+    </header>
+
+    <footer>
+        <p>&copy; 2024 MusicLib</p>
+        <p>
+            <a href="privacy-policy.html">Privacy Policy</a> | 
+            <a href="mailto:your-email@example.com">Support</a>
+        </p>
+    </footer>
+
+</body>
+</html>
