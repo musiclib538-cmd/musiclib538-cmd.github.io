@@ -9,7 +9,7 @@ This repository hosts the official landing page, legal documentation, and moneti
 MusicLib is an AI-powered music discovery platform designed specifically for YouTubers, Reels creators, and storytellers. It provides a library of high-quality, **instrumental-only** soundscapes that are 100% royalty-free.
 
 ### Key Features:
-- **AI-Driven Discovery:** Intelligent algorithms that find the most suitable tracks for your specific video mood.
+- **Personalised Search:** Intelligent algorithms that find the most suitable tracks for your specific video mood.
 - **Creator First:** Every track is instrumental (no lyrics) to ensure voiceovers remain the focus.
 - **Copyright Safe:** Designed to bypass Content ID hurdles on TikTok, Instagram, and YouTube.
 - **Minimalist Design:** A clean, Material You inspired interface for a seamless user experience.
