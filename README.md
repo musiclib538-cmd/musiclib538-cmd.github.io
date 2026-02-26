@@ -1,6 +1,6 @@
 # 🎵 MusicLib — Official Web Portal
 
-[![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-blueviolet?style=for-the-badge)](https://musiclib538-cmd.github.io/musiclib-sites/)
+[![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-blueviolet?style=for-the-badge)](https://musiclib538-cmd.github.io/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.musiclib)
 
 This repository hosts the official landing page, legal documentation, and monetization verification files for **MusicLib**, a specialized Android application for content creators.
